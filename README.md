@@ -7,7 +7,7 @@ Lecteur et éditeur PDF pour Windows 10 et 11, léger, rapide et entièrement en
 | **Plume PDF** | tout : lire, annoter, organiser les pages, remplir et créer des formulaires, modifier le contenu, convertir, protéger | [PlumePDF.exe](https://github.com/Gadjoffrey/PlumePDF/releases/latest/download/PlumePDF.exe) |
 | **Plume PDF Lite** | pour les apprenants : lire, remplir les formulaires, annoter, dessiner, imprimer, sans toucher au contenu des documents | [PlumePDF-Lite.exe](https://github.com/Gadjoffrey/PlumePDF/releases/latest/download/PlumePDF-Lite.exe) |
 
-Dernière version : **0.5.1** ([nouveautés et anciennes versions](https://github.com/Gadjoffrey/PlumePDF/releases)).
+Dernière version : **0.5.2** ([nouveautés et anciennes versions](https://github.com/Gadjoffrey/PlumePDF/releases)).
 
 ## Installation
 
