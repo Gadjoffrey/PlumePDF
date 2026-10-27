@@ -7,7 +7,7 @@ Lecteur et éditeur PDF pour Windows 10 et 11, léger, rapide et entièrement en
 | **Plume PDF** | tout : lire, annoter, organiser les pages, remplir et créer des formulaires, modifier le contenu, convertir, protéger | [PlumePDF.exe](https://github.com/Gadjoffrey/PlumePDF/releases/latest/download/PlumePDF.exe) |
 | **Plume PDF Lite** | pour les apprenants : lire, remplir les formulaires, annoter, dessiner, imprimer, sans toucher au contenu des documents | [PlumePDF-Lite.exe](https://github.com/Gadjoffrey/PlumePDF/releases/latest/download/PlumePDF-Lite.exe) |
 
-Dernière version : **0.5.2** ([nouveautés et anciennes versions](https://github.com/Gadjoffrey/PlumePDF/releases)).
+Dernière version : **0.5.3** ([nouveautés et anciennes versions](https://github.com/Gadjoffrey/PlumePDF/releases)).
 
 ## Installation
 
@@ -20,10 +20,14 @@ présent sur Windows 10 et 11 à jour.
 
 ## Mises à jour
 
-L'application vérifie seule les nouvelles versions au démarrage. **Plume PDF** les installe en arrière-plan puis
-propose de redémarrer (réglage dans Préférences, Général, « Mises à jour »). **Plume PDF Lite** s'installe sans rien
-demander et passe à la nouvelle version au lancement suivant. Chaque mise à jour est signée par l'auteur : un fichier
-modifié est refusé.
+L'application vérifie seule les nouvelles versions au démarrage. **Plume PDF** télécharge la nouvelle version en
+arrière-plan puis propose de l'appliquer d'un clic, sans se fermer : les documents ouverts sont rouverts (réglage dans
+Préférences, Général, « Mises à jour »). **Plume PDF Lite** l'applique sans rien demander au lancement suivant.
+
+La mise à jour automatique ne télécharge que l'interface de l'application (pages, scripts et polices), signée par
+l'auteur : un fichier modifié est refusé. Elle n'écrit ni ne lance jamais aucun programme, ce que les antivirus
+d'entreprise bloquent. Quand une version demande un nouveau programme, l'application le signale avec le lien de
+téléchargement : elle s'installe alors à la main, comme la première fois.
 
 ## Licence
 
